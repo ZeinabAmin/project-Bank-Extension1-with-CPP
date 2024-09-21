@@ -1,0 +1,6 @@
+﻿  7- course7 project2.cpp
+C:\Users\dr\source\repos\7- course7 project2\7- course7 project2\7- course7 project2.cpp(32,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\dr\source\repos\7- course7 project2\7- course7 project2\7- course7 project2.cpp(421,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\dr\source\repos\7- course7 project2\7- course7 project2\7- course7 project2.cpp(386,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\dr\source\repos\7- course7 project2\7- course7 project2\7- course7 project2.cpp(446,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  7- course7 project2.vcxproj -> C:\Users\dr\source\repos\7- course7 project2\x64\Debug\7- course7 project2.exe
